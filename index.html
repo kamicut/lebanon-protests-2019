@@ -166,7 +166,7 @@ and (max-device-width : 480px) {
       var coordinates = e.features[0].geometry.coordinates.slice();
       var description = 'غير موثق';
       if (e.features[0].properties.links !== "null") {
-        description = `<a target=_blank href=${e.features[0].properties.links}>${description}</a>`
+        description = `<a target=_blank href=${e.features[0].properties.links}>رابط</a>`
       }
 
       // Ensure that if the map is zoomed out such that multiple
