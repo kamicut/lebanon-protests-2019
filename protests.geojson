@@ -3,6 +3,7 @@
 "name": "leb-protests",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+{ "type": "Feature", "properties": { "protest location": " كوشا ", "coordinates": "34.3083579,35.773755", "links": https:\/\/twitter.com\/LBCI_NEWS\/status\/1185051023133564928?s=20, "field_4": null, "coordinates y": 34.562685, "coordinates x": 36.083174 }, "geometry": { "type": "Point", "coordinates": [ 36.083174, 34.562685 ] } },  
 { "type": "Feature", "properties": { "protest location": " كفر حزير ", "coordinates": "34.3083579,35.773755", "links": null, "field_4": null, "coordinates y": 34.3083579, "coordinates x": 35.773755 }, "geometry": { "type": "Point", "coordinates": [ 35.773755, 34.3083579 ] } },
 { "type": "Feature", "properties": { "protest location": "أبلح", "coordinates": "33.8668943,35.9506051", "links": null, "field_4": null, "coordinates y": 33.8668943, "coordinates x": 35.9506051 }, "geometry": { "type": "Point", "coordinates": [ 35.9506051, 33.8668943 ] } },
 { "type": "Feature", "properties": { "protest location": "أنطلياس", "coordinates": "33.914585,35.584655", "links": null, "field_4": null, "coordinates y": 33.914585, "coordinates x": 35.584655 }, "geometry": { "type": "Point", "coordinates": [ 35.584655, 33.914585 ] } },
