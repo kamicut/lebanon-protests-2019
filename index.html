@@ -72,7 +72,7 @@ and (max-device-width : 480px) {
         "type": "geojson",
         "data": "protests.geojson"
       },
-        layout:{"text-field":["to-string",["get","place name"]],"icon-image":["step",["zoom"],"fire-station-11",22,"fire-station-11"],"text-offset":[-0.5,1],"icon-size":1,"text-size":13,"text-allow-overlap":true,"icon-allow-overlap":true},
+        layout:{"text-field":["to-string",["get","protest location"]],"text-size":13,"text-allow-overlap":true,"icon-allow-overlap":true},
       "paint":{"text-color":"hsl(0, 100%, 79%)","text-halo-color":"hsl(0, 100%, 0%)","text-halo-width":1}
       },
       )
@@ -164,8 +164,7 @@ and (max-device-width : 480px) {
         map.getCanvas().style.cursor = 'pointer';
 
       var coordinates = e.features[0].geometry.coordinates.slice();
-      console.log(e.features[0].properties)
-      var description = e.features[0].properties['protest location'];
+      var description = 'غير موثق';
       if (e.features[0].properties.links !== "null") {
         description = `<a target=_blank href=${e.features[0].properties.links}>${description}</a>`
       }
