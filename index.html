@@ -77,8 +77,32 @@ and (max-device-width : 480px) {
         "type": "geojson",
         "data": "protests.geojson"
       },
-        layout:{"text-field":["to-string",["get","protest location"]],"icon-image": "marker-15", "text-offset": [-0.5, 1], "icon-size": 1, "text-size":30,"text-allow-overlap":true,"icon-allow-overlap":true},
+        layout:{"text-field":["to-string",["get","protest location"]],"icon-image": "marker-15", "text-offset": [-0.5, 1], "icon-size": 1, "text-size":15,"text-allow-overlap":false,"icon-allow-overlap":true},
       "paint":{"text-color":"hsl(0, 50%, 90%)","text-halo-color":"hsl(0, 100%, 0%)","text-halo-width":1}
+      },
+      )
+    }
+    function addProtestsHeatmap(map) {
+      map.addLayer({
+        id: 'sat_incidents',
+        type: "heatmap",
+        source: {
+          "type": "geojson",
+          "data": "protests.geojson"
+        },
+        "paint": {
+          "heatmap-color": [
+            "interpolate",
+            ["linear"],
+            ["heatmap-density"],
+            0,
+            "hsla(27, 100%, 50%, 0)",
+            0.5,
+            "hsl(35, 100%, 50%)",
+            1,
+            "red"
+          ]
+        },
       },
       )
     }
@@ -96,8 +120,8 @@ and (max-device-width : 480px) {
       const savedLayers = [];
       const savedSources = {};
       const layerGroups = [
-        'geo_incidents',
         'sat_incidents',
+        'geo_incidents',
       ];
 
       layerGroups.forEach((layerGroup) => {
@@ -132,6 +156,7 @@ and (max-device-width : 480px) {
     });
 
     map.on('load', function () {
+      addProtestsHeatmap(map)
       addProtestsLayer(map)
     })
 
