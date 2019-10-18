@@ -72,7 +72,7 @@ and (max-device-width : 480px) {
         "type": "geojson",
         "data": "protests.geojson"
       },
-        layout:{"text-field":["to-string",["get","protest location"]],"text-size":16,"text-allow-overlap":true,"icon-allow-overlap":true},
+        layout:{"text-field":["to-string",["get","protest location"]],"icon-image": "marker-15", "text-offset": [-0.5, 1], "icon-size": 1, "text-size":30,"text-allow-overlap":true,"icon-allow-overlap":true},
       "paint":{"text-color":"hsl(0, 50%, 90%)","text-halo-color":"hsl(0, 100%, 0%)","text-halo-width":1}
       },
       )
