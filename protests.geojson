@@ -1465,6 +1465,23 @@
           34.01577945723606
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "أميون",
+        "tweet_id": "1186010869530025987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.80821990966797,
+          34.29927374801349
+        ]
+      }
     }
   ]
 }
