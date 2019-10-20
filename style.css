@@ -6,8 +6,14 @@ body {
   line-height: 1.4
 }
 
+#loader {
+  display: none
+}
+
 #hide {
-  font-size: 0.5em;
+  color: #aaa;
+  text-align: left;
+  font-size: 1em;
 }
 
 #map-container {
@@ -22,15 +28,16 @@ body {
   width: 100%;
 }
 #about {
-  padding: 10px;
-  background-color: rgba(255, 255, 255, .7);
+  padding: 5px;
+  background-color: #333;
   text-align: right;
-  font-size: 1.2em;
   direction: rtl
 }
 
 h1 {
-  font-size: 2em;
+  padding-right: 5px;
+  color: #aaa;
+  font-size: 1.2em;
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
@@ -39,7 +46,7 @@ h1 {
   }
 
   h1 {
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 
 }

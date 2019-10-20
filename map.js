@@ -125,13 +125,18 @@ for (var i = 0; i < inputs.length; i++) {
 // hide button
 var hideButton = document.querySelector('#hide')
 var menubox = document.querySelector('#menubox')
-var description = document.querySelector('#description')
+var loader = document.querySelector('#loader')
 var menuBoxShow = true
-hideButton.onclick = function(e) {
+
+function toggleMenuBox () {
   menuBoxShow = !menuBoxShow
   menubox.style = menuBoxShow ? "" : "display: none"
-  description.style = menuBoxShow ? "" : "display:none"
   hideButton.innerHTML = menuBoxShow ? "[hide]" : "[show]"
+
+}
+
+hideButton.onclick = function(e) {
+  toggleMenuBox()
 }
 
 // add popup
@@ -141,6 +146,7 @@ var popup = new mapboxgl.Popup({
   closeOnClick: false
 });
 
+
 map.on('click', 'geo_incidents', async function(e) {
   menubox.innerHTML = ''
   var coordinates = e.features[0].geometry.coordinates.slice();
@@ -148,7 +154,15 @@ map.on('click', 'geo_incidents', async function(e) {
   var link = properties.links
   var description = 'غير موثق';
   if (properties.tweet_id) {
+    loader.style = "display: block;"
+
     twttr.widgets.createTweet(properties.tweet_id, menubox)
+      .then(() => {
+        loader.style = "display: none;"
+        if (!menuBoxShow) {
+          toggleMenuBox()
+        }
+      })
   } else {
     if (link !== "null") {
       description = `<a target=_blank href=${link}>رابط</a>`
