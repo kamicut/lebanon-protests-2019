@@ -692,14 +692,17 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "protest location": "ساحة إيليا صيدا",
         "coordinates": "33.5647398,35.3726959",
         "links": "https://twitter.com/aemasri/status/1184947765345968130",
-        "tweet_id": "1184947765345968130",
-        "field_4": null,
+        "tweet_id": "1185997551348129793",
+        "field_4": "null",
         "coordinates y": 33.5647398,
         "coordinates x": 35.3726959,
-        "field_7": null
+        "field_7": "null"
       },
       "geometry": {
         "type": "Point",
@@ -1480,6 +1483,74 @@
         "coordinates": [
           35.80821990966797,
           34.29927374801349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Washington",
+        "tweet_id": "1185726610617618432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03338623046875,
+          38.89744587262311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Lyon",
+        "tweet_id": "1185940810791084035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8504638671875,
+          45.74788115135079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Amsterdam",
+        "tweet_id": "1185896597663735808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.888916015625,
+          52.3709879000206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Berlin",
+        "tweet_id": "1186003406659506176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.380424976348875,
+          52.5164428456833
         ]
       }
     }
