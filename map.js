@@ -61,7 +61,7 @@ function addProtestsHeatmap(map) {
         1,
         "red"
       ],
-      "heatmap-opacity": 0.4
+      "heatmap-opacity": 0.6
     },
   }, )
 }
