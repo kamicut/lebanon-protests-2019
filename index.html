@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset='utf-8' />
     <title>#لبنان__ينتفض</title>
@@ -29,94 +28,120 @@
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css' rel='stylesheet' />
     <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: "helvetica";
-            color: #333;
-            line-height: 1.4
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: "helvetica";
+        color: #333;
+        line-height: 1.4
+      }
+
+        #hide {
+          font-size: 0.5em;
+        }
+
+        #map-container {
+          position: fixed;
+          height: 100%;
+          width: 100%;
         }
 
         #map {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            width: 100%;
+          position: relative;
+          height: 100%;
+          width: 100%;
         }
-
         #about {
-            position: absolute;
-            padding: 0.5em;
-            top: 0;
-            width: 30%;
-            z-index: 999;
-            background-color: rgba(255, 255, 255, .9);
-            left: 0;
-            text-align: right;
-            font-size: 1.2em;
-            direction: rtl
+          padding: 10px;
+          background-color: rgba(255, 255, 255, .7);
+          text-align: right;
+          font-size: 1.2em;
+          direction: rtl
         }
 
         h1 {
-            font-size: 2em;
-        }
-
-        #hide {
-            font-size: 10px;
-            cursor: pointer;
-            margin-right: 0;
-            margin-left: auto;
-            width: 30px;
+          font-size: 2em;
         }
 
         @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-            body {
-                font-size: 0.8em;
-            }
+          body {
+            font-size: 0.8em;
+          }
 
-            h1 {
-                font-size: 1rem;
-            }
+          h1 {
+            font-size: 1rem;
+          }
 
-            #about {
-                width: 100%;
-                padding: 2px;
-            }
+        }
+        footer {
+          background-color: white;
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          overflow: hidden;
+        }
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: #333333;
+        }
+
+        li {
+          float: left;
+          color: #999;
+          font-size: 0.8em;
+
+        }
+
+        li a,p {
+          display: block;
+          color: #999;
+          margin: 0;
+          text-align: center;
+          padding: .5em;
+          text-decoration: none;
+        }
+
+        footer li a:hover {
+          background-color: #111111;
         }
 
     </style>
 </head>
 
 <body>
+  <div id='about'>
+    <div id="hide">[hide]</div>
+    <div id="description">
+      <h1>#لبنان__ينتفض </h1>
+    </div>
+    <div id="menubox">
+    </div>
+  </div>
 
+  <div id="map-container">
     <div id='map'></div>
-    <div id='about'>
-        <div id="hide">[hide]</div>
-        <div id="description">
-            <h1>#لبنان__ينتفض </h1>
-            <p>
-                مواقع المظاهرات والاحتجاجات الشعبية التي بدأت ليلة الخميس ١٧ تشرين الاول وما زالت تتمدد على الاراضي اللبنانية.
-                اشتعلت هذه الاحتجاجات نتيجة الضرائب التي كانت الحكومة مزمعة على اقرارها بالرغم من تردِّ الأوضاع الإقتصادية في لبنان.
-            </p>
-            <p>آخر تحديث</p>
-            <p>10/20/2019 4:47pm Lebanon time</p>
-            
-        </div>
-        <div id="menubox">
-            <div id='menu' style="direction:ltr;text-align:left;">
-                <input id='kamicut/ck1vedq510l101cocnbgs1ira' type='radio' name='rtoggle' value='streets' checked>
-                <label for='streets'>streets</label>
-                <input id='kamicut/ck1vei9rg881c1cowmbobmb96' type='radio' name='rtoggle' value='satellite'>
-                <label for='satellite'>satellite</label>
-            </div>
+  </div>
+  <footer>
+    <ul>
+      <li><a href="about.html">About</a></li>
+      <li><a href=>Code and data</a></li>
+      <li><a href="https://github.com/kamicut/lebanon-protests-2019">Code and data 💻</a></li>
+      <li><a href="https://bit.ly/33GdlCR">Another Crowdsourced Map🙌</a></li>
+      <li><a>Updated 10/20/2019 4:47pm Lebanon time</a></li>
 
-
-            <div style="margin-top:2em;">
-                <div><a href="https://docs.google.com/forms/d/e/1FAIpQLSfry8VcQQcd4r1lapQjJsIeQvm__mhutG7Amm1uBjoYPcltWw/viewform">Suggest a new location - أقترح موقع جديد 📣</a></div>
-                <div><a href="https://github.com/kamicut/lebanon-protests-2019">Code and data 💻</a></div>
-                <div><a href="https://bit.ly/33GdlCR">Another Crowdsourced Map🙌</a></div></div>
-            </div>
-        </div>
+      <li id='menu' style="direction:ltr;text-align:left;">
+        <p>
+        <input id='kamicut/ck1vedq510l101cocnbgs1ira' type='radio' name='rtoggle' value='streets' checked>
+        <label for='streets'>streets</label>
+        <input id='kamicut/ck1vei9rg881c1cowmbobmb96' type='radio' name='rtoggle' value='satellite'>
+        <label for='satellite'>satellite</label>
+        </p>
+      </li>
+  </footer>
 
         <script>
             function addProtestsLayer(map) {
