@@ -296,13 +296,17 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "protest location": "النبطية",
         "coordinates": "33.364253,35.491964",
         "links": "https://www.lbcgroup.tv/news/d/%D8%A7%D9%85%D9%86-%D9%88%D9%82%D8%B6%D8%A7%D8%A1/476701/%D8%AA%D9%83%D8%B3%D9%8A%D8%B1-%D9%8A%D8%A7%D9%81%D8%B7%D8%A9-%D9%88%D8%A7%D8%B6%D8%B1%D8%A7%D9%85-%D9%86%D8%A7%D8%B1-%D8%A7%D9%85%D8%A7%D9%85-%D9%85%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8-%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D8%B9%D8%AF-%D9%81/ar",
-        "field_4": null,
+        "field_4": "null",
         "coordinates y": 33.364253,
         "coordinates x": 35.491964,
-        "field_7": null
+        "field_7": "null",
+        "tweet_id": "1185553455756316672"
       },
       "geometry": {
         "type": "Point",
@@ -768,7 +772,7 @@
         "protest location": "صور",
         "coordinates": "33.2696967,35.2018619",
         "links": "https://twitter.com/AmalKhalil83/status/1184939523802882049",
-        "tweet_id": "1185953515908284417",
+        "tweet_id": "1185965255849140227",
         "field_4": "null",
         "coordinates y": 33.2696967,
         "coordinates x": 35.2018619,
