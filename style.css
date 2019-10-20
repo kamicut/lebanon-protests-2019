@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "helvetica";
+  color: #333;
+  line-height: 1.4
+}
+
+#loader {
+  display: none
+}
+
+#hide {
+  color: #aaa;
+  text-align: left;
+  font-size: 1em;
+}
+
+#map-container {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+#map {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+#about {
+  padding: 5px;
+  background-color: #333;
+  text-align: right;
+  direction: rtl
+}
+
+h1 {
+  padding-right: 5px;
+  color: #aaa;
+  font-size: 1.2em;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  body {
+    font-size: 0.8em;
+  }
+
+  h1 {
+    font-size: 0.8rem;
+  }
+
+}
+footer {
+  background-color: white;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  overflow: hidden;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+  color: #999;
+  font-size: 0.8em;
+
+}
+
+li a,p {
+  display: block;
+  color: #999;
+  margin: 0;
+  text-align: center;
+  padding: .5em;
+  text-decoration: none;
+}
+
+footer li a:hover {
+  background-color: #111111;
+}
+

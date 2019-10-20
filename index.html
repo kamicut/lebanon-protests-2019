@@ -27,97 +27,14 @@
     <meta name="og:type" content="website">
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css' rel='stylesheet' />
-    <style>
-      body {
-        margin: 0;
-        padding: 0;
-        font-family: "helvetica";
-        color: #333;
-        line-height: 1.4
-      }
-
-        #hide {
-          font-size: 0.5em;
-        }
-
-        #map-container {
-          position: fixed;
-          height: 100%;
-          width: 100%;
-        }
-
-        #map {
-          position: relative;
-          height: 100%;
-          width: 100%;
-        }
-        #about {
-          padding: 10px;
-          background-color: rgba(255, 255, 255, .7);
-          text-align: right;
-          font-size: 1.2em;
-          direction: rtl
-        }
-
-        h1 {
-          font-size: 2em;
-        }
-
-        @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-          body {
-            font-size: 0.8em;
-          }
-
-          h1 {
-            font-size: 1rem;
-          }
-
-        }
-        footer {
-          background-color: white;
-          position: absolute;
-          left: 0;
-          bottom: 0;
-          width: 100%;
-          overflow: hidden;
-        }
-        ul {
-          list-style-type: none;
-          margin: 0;
-          padding: 0;
-          overflow: hidden;
-          background-color: #333333;
-        }
-
-        li {
-          float: left;
-          color: #999;
-          font-size: 0.8em;
-
-        }
-
-        li a,p {
-          display: block;
-          color: #999;
-          margin: 0;
-          text-align: center;
-          padding: .5em;
-          text-decoration: none;
-        }
-
-        footer li a:hover {
-          background-color: #111111;
-        }
-
-    </style>
+    <link href='style.css' rel='stylesheet' />
 </head>
 
 <body>
   <div id='about'>
     <div id="hide">[hide]</div>
-    <div id="description">
-      <h1>#لبنان__ينتفض </h1>
-    </div>
+    <h1>#لبنان__ينتفض </h1>
+    <img id="loader" src="loading.gif"></img>
     <div id="menubox">
     </div>
   </div>
@@ -130,7 +47,8 @@
       <li><a href="about.html">About</a></li>
       <li><a href="https://github.com/kamicut/lebanon-protests-2019">Code and data 💻</a></li>
       <li><a href="https://bit.ly/33GdlCR">Another Crowdsourced Map🙌</a></li>
-      <li><a>Updated 10/20/2019 4:47pm Lebanon time</a></li>
+      <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfry8VcQQcd4r1lapQjJsIeQvm__mhutG7Amm1uBjoYPcltWw/viewform">Suggest a new location - أقترح موقع جديد 📣</a></li>
+      <li><a>Updated 10/20/2019 9:00pm Lebanon time</a></li>
 
       <li id='menu' style="direction:ltr;text-align:left;">
         <p>
@@ -141,173 +59,23 @@
         </p>
       </li>
   </footer>
+  <script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
 
-        <script>
-            function addProtestsLayer(map) {
-                map.addLayer({
-                    id: 'geo_incidents',
-                    type: "symbol",
-                    source: {
-                        "type": "geojson",
-                        "data": "protests.geojson"
-                    },
-                    layout: {
-                        "text-field": ["to-string", ["get", "protest location"]],
-                        "icon-image": "marker-15",
-                        "text-offset": [-0.5, 1],
-                        "icon-size": 1,
-                        "text-size": 15,
-                        "text-allow-overlap": false,
-                        "icon-allow-overlap": true
-                    },
-                    "paint": {
-                        "text-color": "hsl(0, 50%, 90%)",
-                        "text-halo-color": "hsl(0, 100%, 0%)",
-                        "text-halo-width": 1
-                    }
-                }, )
-            }
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
 
-            function addProtestsHeatmap(map) {
-                map.addLayer({
-                    id: 'sat_incidents',
-                    type: "heatmap",
-                    source: {
-                        "type": "geojson",
-                        "data": "protests.geojson"
-                    },
-                    "paint": {
-                        "heatmap-color": [
-                            "interpolate",
-                            ["linear"],
-                            ["heatmap-density"],
-                            0,
-                            "hsla(27, 100%, 50%, 0)",
-                            0.5,
-                            "hsl(35, 100%, 50%)",
-                            1,
-                            "red"
-                        ]
-                    },
-                }, )
-            }
-
-            function forEachLayer(map, text, cb) {
-                map.getStyle().layers.forEach((layer) => {
-                    if (!layer.id.includes(text)) return;
-
-                    cb(layer);
-                });
-            }
-
-            // Changing the map base style
-            function changeStyle(map, style) {
-                const savedLayers = [];
-                const savedSources = {};
-                const layerGroups = [
-                    'sat_incidents',
-                    'geo_incidents',
-                ];
-
-                layerGroups.forEach((layerGroup) => {
-                    forEachLayer(map, layerGroup, (layer) => {
-                        savedSources[layer.source] = map.getSource(layer.source).serialize();
-                        savedLayers.push(layer);
-                    });
-                });
-
-                map.setStyle(`mapbox://styles/${style}`);
-
-
-                setTimeout(() => {
-                    Object.entries(savedSources).forEach(([id, source]) => {
-                        map.addSource(id, source);
-                    });
-
-                    savedLayers.forEach((layer) => {
-                        map.addLayer(layer);
-                    });
-                }, 1000);
-            }
-
-            mapboxgl.accessToken = 'pk.eyJ1Ijoia2FtaWN1dCIsImEiOiJMVzF2NThZIn0.WO0ArcIIzYVioen3HpfugQ';
-            mapboxgl.setRTLTextPlugin('https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-rtl-text/v0.2.3/mapbox-gl-rtl-text.js');
-
-            var map = new mapboxgl.Map({
-                container: 'map', // container id
-                style: 'mapbox://styles/kamicut/ck1vedq510l101cocnbgs1ira',
-                center: [35.413, 33.834], // starting position [lng, lat]
-                zoom: 9 // starting zoom
-            });
-
-            map.on('load', function() {
-                addProtestsHeatmap(map)
-                addProtestsLayer(map)
-            })
-
-            var layerList = document.getElementById('menu');
-            var inputs = layerList.getElementsByTagName('input');
-
-            function switchLayer(layer) {
-                var layerId = layer.target.id;
-                changeStyle(map, layerId)
-            }
-
-            for (var i = 0; i < inputs.length; i++) {
-                inputs[i].onclick = switchLayer;
-            }
-
-            // hide button
-            var hideButton = document.querySelector('#hide')
-            var menubox = document.querySelector('#menubox')
-            var description = document.querySelector('#description')
-            var menuBoxShow = true
-            hideButton.onclick = function(e) {
-                menuBoxShow = !menuBoxShow
-                menubox.style = menuBoxShow ? "" : "display: none"
-                description.style = menuBoxShow ? "" : "display:none"
-                hideButton.innerHTML = menuBoxShow ? "[hide]" : "[show]"
-            }
-
-            // add popup
-            // Create a popup, but don't add it to the map yet.
-            var popup = new mapboxgl.Popup({
-                closeButton: false,
-                closeOnClick: false
-            });
-
-            map.on('click', 'geo_incidents', function(e) {
-                var coordinates = e.features[0].geometry.coordinates.slice();
-                var description = 'غير موثق';
-                if (e.features[0].properties.links !== "null") {
-                    description = `<a target=_blank href=${e.features[0].properties.links}>رابط</a>`
-                }
-
-                // Ensure that if the map is zoomed out such that multiple
-                // copies of the feature are visible, the popup appears
-                // over the copy being pointed to.
-                while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-                    coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-                }
-
-                // Populate the popup and set its coordinates
-                // based on the feature found.
-                popup.setLngLat(coordinates)
-                    .setHTML(description)
-                    .addTo(map);
-            })
-
-            map.on('mouseenter', 'geo_incidents', function(e) {
-                // Change the cursor style as a UI indicator.
-                map.getCanvas().style.cursor = 'pointer';
-            });
-
-            map.on('mouseleave', 'geo_incidents', function() {
-                map.getCanvas().style.cursor = '';
-            });
-
-        </script>
-
+  return t;
+  }(document, "script", "twitter-wjs"));</script>
+  <script src="map.js">
+  </script>
 </body>
-
 </html>
