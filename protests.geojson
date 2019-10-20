@@ -1343,6 +1343,91 @@
           42.32377795959519
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Boston",
+        "tweet_id": "1186035661406642182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06231689453125,
+          42.35879761294287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Tempa",
+        "tweet_id": "1186035444045275137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46612548828125,
+          27.958017064071754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "زوق مكايل",
+        "tweet_id": "1185846991458308097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6202507019043,
+          33.97212161348937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Sydney",
+        "tweet_id": "1185835059363766278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21170043945312,
+          -33.87326611273154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Vancouver",
+        "tweet_id": "1185711497185378304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          236.93389892578128,
+          49.26332381833573
+        ]
+      }
     }
   ]
 }
