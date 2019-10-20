@@ -554,14 +554,17 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "protest location": "جل الديب",
         "coordinates": "35.581780,33.908989",
         "links": "https://twitter.com/BelalAyoubi/status/1184996941647765504",
-        "tweet_id": "1184996941647765504",
-        "field_4": null,
+        "tweet_id": "1185660808866549760",
+        "field_4": "null",
         "coordinates y": 33.908989,
         "coordinates x": 35.58178,
-        "field_7": null
+        "field_7": "null"
       },
       "geometry": {
         "type": "Point",
@@ -1426,6 +1429,40 @@
         "coordinates": [
           236.93389892578128,
           49.26332381833573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "London",
+        "tweet_id": "1185634693175226372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1627349853515625,
+          51.51429786349477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "غزير",
+        "tweet_id": "1185561017314623488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.661020278930664,
+          34.01577945723606
         ]
       }
     }
