@@ -1718,6 +1718,71 @@
           33.89677961466216
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Bridge from Hamra",
+        "coordinates": "33.892275, 35.505558",
+        "links": "From George Rattel Live",
+        "Category": "Road Closure",
+        "tweet_id": "",
+        "marker-symbol": "",
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e",
+        "Last Updated": "10/21/2019 9:27 am",
+        "coordinates y": 33.892275,
+        "coordinates x": 35.505558
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50034523010254,
+          33.89376062992757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Paul",
+        "coordinates": "33.895101, 35.509335",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.895101,
+        "coordinates x": 35.509335,
+        "Last Updated": "10/21/2019 9:27 am",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.509322583675385,
+          33.89509647706338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Dora",
+        "coordinates": "33.893786, 35.551045",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.893786,
+        "coordinates x": 35.551045,
+        "Last Updated": "10/21/2019 9:27 am",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.551114082336426,
+          33.89380515850252
+        ]
+      }
     }
   ]
 }
