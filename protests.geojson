@@ -1203,7 +1203,8 @@
         "field_4": null,
         "coordinates y": 34.244184,
         "coordinates x": 36.4032888,
-        "field_7": null
+        "field_7": null,
+        "category": ""
       },
       "geometry": {
         "type": "Point",
@@ -1220,7 +1221,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "tweet_id": "1185894742036537345",
-        "protest location": "باريس"
+        "protest location": "باريس",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1237,7 +1239,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "tweet_id": "1185335160478359557",
-        "protest location": "مونتريال"
+        "protest location": "مونتريال",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1254,7 +1257,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Accra",
-        "tweet_id": "1185962126982176769"
+        "tweet_id": "1185962126982176769",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1271,7 +1275,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Milano",
-        "tweet_id": "1185965759681519618"
+        "tweet_id": "1185965759681519618",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1288,7 +1293,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Chicago",
-        "tweet_id": "1186017793822646272"
+        "tweet_id": "1186017793822646272",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1305,7 +1311,16 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Dublin",
-        "tweet_id": "1185944027499290624"
+        "tweet_id": "1185944027499290624",
+        "coordinates": "",
+        "links": "",
+        "field_4": "",
+        "coordinates y": "",
+        "coordinates x": "",
+        "field_7": "",
+        "instagram_url": "",
+        "last_updated": "",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1339,7 +1354,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Boston",
-        "tweet_id": "1186035661406642182"
+        "tweet_id": "1186035661406642182",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1372,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Tampa",
-        "tweet_id": "1186035444045275137"
+        "tweet_id": "1186035444045275137",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1373,7 +1390,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "زوق مكايل",
-        "tweet_id": "1185846991458308097"
+        "tweet_id": "1185846991458308097",
+        "category": ""
       },
       "geometry": {
         "type": "Point",
@@ -1390,7 +1408,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Sydney",
-        "tweet_id": "1185835059363766278"
+        "tweet_id": "1185835059363766278",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1407,7 +1426,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Vancouver",
-        "tweet_id": "1185711497185378304"
+        "tweet_id": "1185711497185378304",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1424,7 +1444,16 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "London",
-        "tweet_id": "1185634693175226372"
+        "tweet_id": "1185634693175226372",
+        "coordinates": "",
+        "links": "",
+        "field_4": "",
+        "coordinates y": "",
+        "coordinates x": "",
+        "field_7": "",
+        "instagram_url": "",
+        "last_updated": "",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1458,7 +1487,16 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "أميون",
-        "tweet_id": "1186010869530025987"
+        "tweet_id": "1186010869530025987",
+        "coordinates": "",
+        "links": "",
+        "field_4": "",
+        "coordinates y": "",
+        "coordinates x": "",
+        "field_7": "",
+        "instagram_url": "",
+        "last_updated": "",
+        "category": ""
       },
       "geometry": {
         "type": "Point",
@@ -1475,7 +1513,9 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Washington",
-        "tweet_id": "1185726610617618432"
+        "tweet_id": "1185726610617618432",
+        "coordinates": "",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1492,7 +1532,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Lyon",
-        "tweet_id": "1185940810791084035"
+        "tweet_id": "1185940810791084035",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1509,7 +1550,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Amsterdam",
-        "tweet_id": "1185896597663735808"
+        "tweet_id": "1185896597663735808",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1526,7 +1568,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Berlin",
-        "tweet_id": "1186003406659506176"
+        "tweet_id": "1186003406659506176",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1543,7 +1586,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Copenhagen",
-        "instagram_url": "http://instagr.am/p/B32lYv6J3n6/"
+        "instagram_url": "http://instagr.am/p/B32lYv6J3n6/",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1560,7 +1604,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Helsinki",
-        "tweet_id": "1185906278494806017"
+        "tweet_id": "1185906278494806017",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1577,7 +1622,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Bordeaux",
-        "instagram_url": "https://www.instagram.com/p/B32D25IIa6v/"
+        "instagram_url": "https://www.instagram.com/p/B32D25IIa6v/",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1594,7 +1640,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Bordeaux",
-        "tweet_id": "1185997368329719808"
+        "tweet_id": "1185997368329719808",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1658,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "New York",
-        "tweet_id": "1185372046211063808"
+        "tweet_id": "1185372046211063808",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1628,7 +1676,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Amman",
-        "tweet_id": "1185276264443269126"
+        "tweet_id": "1185276264443269126",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1645,7 +1694,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Dearborn",
-        "tweet_id": "1186049333696892929"
+        "tweet_id": "1186049333696892929",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1662,7 +1712,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Edmonton",
-        "tweet_id": "1186015175259770880"
+        "tweet_id": "1186015175259770880",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1679,7 +1730,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Miami",
-        "tweet_id": "1186048880934297600"
+        "tweet_id": "1186048880934297600",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1696,7 +1748,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Houston",
-        "tweet_id": "1185833802742091776"
+        "tweet_id": "1185833802742091776",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1713,12 +1766,13 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Scottsdale",
-        "tweet_id": ""
+        "tweet_id": "",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.864050,
+          -111.86405,
           33.608341
         ]
       }
@@ -1730,7 +1784,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Charlotte",
-        "tweet_id": "1185900574518239237"
+        "tweet_id": "1185900574518239237",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1747,7 +1802,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Melbourne",
-        "tweet_id": "1185811501514252288"
+        "tweet_id": "1185811501514252288",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1764,13 +1820,14 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Seattle",
-        "tweet_id": "1186087871976898560"
+        "tweet_id": "1186087871976898560",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -122.322879,
-          47.588670
+          47.58867
         ]
       }
     },
@@ -1781,7 +1838,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Madrid",
-        "tweet_id": "1185913311763881984"
+        "tweet_id": "1185913311763881984",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1798,7 +1856,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Moscow",
-        "tweet_id": "1185874952869830657"
+        "tweet_id": "1185874952869830657",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1815,13 +1874,14 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Nice",
-        "tweet_id": "1185867802583982080"
+        "tweet_id": "1185867802583982080",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.248704,
-          43.710100
+          43.7101
         ]
       }
     },
@@ -1832,7 +1892,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Bogota",
-        "tweet_id": "1186030967003193345"
+        "tweet_id": "1186030967003193345",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1849,7 +1910,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Cyprus",
-        "tweet_id": "1185952306501693447"
+        "tweet_id": "1185952306501693447",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1866,7 +1928,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Brussels",
-        "tweet_id": "1185826468858912770"
+        "tweet_id": "1185826468858912770",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1883,7 +1946,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Kharkiv",
-        "tweet_id": "1185977292910223360"
+        "tweet_id": "1185977292910223360",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1900,7 +1964,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Mexico City",
-        "tweet_id": "1185975297482641410"
+        "tweet_id": "1185975297482641410",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1917,12 +1982,13 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Minsk",
-        "tweet_id": "1185969377583218688"
+        "tweet_id": "1185969377583218688",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.556310,
+          27.55631,
           53.894227
         ]
       }
@@ -1934,7 +2000,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Munich",
-        "tweet_id": "1185904510125924358"
+        "tweet_id": "1185904510125924358",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1951,12 +2018,13 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "The Hague",
-        "tweet_id": "1185975701603782656"
+        "tweet_id": "1185975701603782656",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.298530,
+          4.29853,
           52.065499
         ]
       }
@@ -1968,7 +2036,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Stockholm",
-        "tweet_id": "1185898354871619584"
+        "tweet_id": "1185898354871619584",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1985,7 +2054,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "San Francisco",
-        "tweet_id": "1185829626834079745"
+        "tweet_id": "1185829626834079745",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -2002,7 +2072,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Strasbourg",
-        "links": "https://www.facebook.com/lebanon10452.lb/photos/a.2317032335234305/2444015959202608/?type=3&theater"
+        "links": "https://www.facebook.com/lebanon10452.lb/photos/a.2317032335234305/2444015959202608/?type=3&theater",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -2019,16 +2090,210 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "protest location": "Toronto",
-        "tweet_id": "1185992065966071808"
+        "tweet_id": "1185992065966071808",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.385174,
-          43.663970
+          43.66397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Beirut Digital District",
+        "coordinates": "33.893226285214475,35.50132155418396",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.893226285214475,
+        "coordinates x": 35.50132155418396,
+        "tweet_id": "",
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50132155418396,
+          33.893226285214475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Zouq Mosbeh",
+        "coordinates": "33.962167, 35.604744",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.962167,
+        "coordinates x": 35.604744,
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.60465097427368,
+          33.96196003137657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Matn Express Hwy",
+        "coordinates": "33.892834, 35.575341",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.892834,
+        "coordinates x": 35.575341,
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e",
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57522177696228,
+          33.892861147735054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Matn Express Hwy",
+        "coordinates": "33.893913, 35.570774",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.893913,
+        "coordinates x": 35.570774,
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e",
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5710482597351,
+          33.89484712051975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Mar Mtanios",
+        "coordinates": "33.892661, 35.574258",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.892661,
+        "coordinates x": 35.574258,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57501792907715,
+          33.892255550420344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "City Mall",
+        "coordinates": "33.896859, 35.566092",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.896859,
+        "coordinates x": 35.566092,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.56604862213135,
+          33.89677961466216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Bridge from Hamra",
+        "coordinates": "33.892275, 35.505558",
+        "links": "From George Rattel Live",
+        "tweet_id": "",
+        "marker-symbol": "",
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e",
+        "coordinates y": 33.892275,
+        "coordinates x": 35.505558,
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50034523010254,
+          33.89376062992757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Paul",
+        "coordinates": "33.895101, 35.509335",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.895101,
+        "coordinates x": 35.509335,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.509322583675385,
+          33.89509647706338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Dora",
+        "coordinates": "33.893786, 35.551045",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.893786,
+        "coordinates x": 35.551045,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.551114082336426,
+          33.89380515850252
         ]
       }
     }
   ]
-
 }
