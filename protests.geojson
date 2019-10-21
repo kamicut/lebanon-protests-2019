@@ -1689,9 +1689,143 @@
           25.767223
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Houston",
+        "tweet_id": "1185833802742091776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.435803,
+          29.747542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Scottsdale",
+        "tweet_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.864050,
+          33.608341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Charlotte",
+        "tweet_id": "1185900574518239237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.841879,
+          35.209727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Melbourne",
+        "tweet_id": "1185811501514252288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.981336,
+          -37.836715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Seattle",
+        "tweet_id": "1186087871976898560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322879,
+          47.588670
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Madrid",
+        "tweet_id": "1185913311763881984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.705295,
+          40.420178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Moscow",
+        "tweet_id": "1185874952869830657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.621224,
+          55.753888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Nice",
+        "tweet_id": "1185867802583982080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.248704,
+          43.710100
+        ]
+      }
     }
-
-
   ]
 
 }
