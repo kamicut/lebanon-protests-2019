@@ -1339,23 +1339,6 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "protest location": "Dearborn",
-        "tweet_id": "1185975287596683266"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.1778335571289,
-          42.32377795959519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "protest location": "Boston",
         "tweet_id": "1186035661406642182"
       },
@@ -1373,7 +1356,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "protest location": "Tempa",
+        "protest location": "Tampa",
         "tweet_id": "1186035444045275137"
       },
       "geometry": {
@@ -1553,6 +1536,162 @@
           52.5164428456833
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Copenhagen",
+        "instagram_url": "http://instagr.am/p/B32lYv6J3n6/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.570024,
+          55.675217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Helsinki",
+        "tweet_id": "1185906278494806017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.938465,
+          60.169806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Bordeaux",
+        "instagram_url": "https://www.instagram.com/p/B32D25IIa6v/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.580151,
+          44.835876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Bordeaux",
+        "tweet_id": "1185997368329719808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.269256,
+          53.344776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "New York",
+        "tweet_id": "1185372046211063808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.961272,
+          40.777443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Amman",
+        "tweet_id": "1185276264443269126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.925173,
+          31.871812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Dearborn",
+        "tweet_id": "1186049333696892929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.210664,
+          42.314048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Edmonton",
+        "tweet_id": "1186015175259770880"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.496878,
+          53.545029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Miami",
+        "tweet_id": "1186048880934297600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.224318,
+          25.767223
+        ]
+      }
     }
+
+
   ]
+
 }

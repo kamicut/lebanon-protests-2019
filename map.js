@@ -5,8 +5,8 @@ mapboxgl.setRTLTextPlugin('https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl
 var map = new mapboxgl.Map({
   container: 'map', // container id
   style: 'mapbox://styles/kamicut/ck1vedq510l101cocnbgs1ira',
-  center: [35.413, 33.834], // starting position [lng, lat]
-  zoom: 9 // starting zoom
+  center: [0,0], // starting position [lng, lat]
+  zoom: 1 // starting zoom
 });
 
 function addProtestsLayer(map) {
@@ -21,6 +21,7 @@ function addProtestsLayer(map) {
       "text-field": ["to-string", ["get", "protest location"]],
       "icon-image": ["case",
         ["has", "tweet_id"], "marker-15",
+        ["has", "instagram_url"], "marker-15",
         "none"
       ],
       "text-offset": [-1, 1],
@@ -32,6 +33,7 @@ function addProtestsLayer(map) {
     "paint": {
       "text-opacity": ["case",
         ["has", "tweet_id"], 1,
+        ["has", "instagram_url"], 1,
         0.4
       ],
       "text-color": "hsl(0, 50%, 90%)",
@@ -50,7 +52,14 @@ function addProtestsHeatmap(map) {
       "data": "protests.geojson"
     },
     "paint": {
-      "heatmap-color": [
+       "heatmap-radius": [
+       "interpolate",
+       ["linear"],
+       ["zoom"],
+       0, 5,
+       9, 20
+       ],
+			"heatmap-color": [
         "interpolate",
         ["linear"],
         ["heatmap-density"],
@@ -163,6 +172,19 @@ map.on('click', 'geo_incidents', async function(e) {
           toggleMenuBox()
         }
       })
+  } else if (properties.instagram_url) {
+    loader.style = "display: block;"
+    fetch(`https://noembed.com/embed?url=${properties.instagram_url}`)
+      .then(data => data.json())
+      .then(data => {
+        loader.style = "display: none;"
+        menubox.innerHTML = data.html
+
+        if (!menuBoxShow) {
+          toggleMenuBox()
+        }
+      })
+
   } else {
     if (link !== "null") {
       description = `<a target=_blank href=${link}>رابط</a>`
