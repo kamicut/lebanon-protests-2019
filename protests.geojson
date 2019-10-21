@@ -149,6 +149,8 @@
       "properties": {
         "protest location": "الجية",
         "coordinates": "33.6702394,35.4234095",
+        "tweet_id": "1185980836786688002",
+        "field_4": null,
         "links": "https://twitter.com/lbci_news/status/1184963304621531137",
         "tweet_id": "1184963304621531137",
         "coordinates y": 33.6702394,
@@ -1404,9 +1406,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "protest location": "Tempa",
         "tweet_id": "1186035444045275137",
         "category": "International Protest"
+        "protest location": "Tampa",
       },
       "geometry": {
         "type": "Point",
@@ -1814,4 +1816,5 @@
       }
     }
   ]
+
 }
