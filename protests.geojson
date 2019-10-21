@@ -1793,6 +1793,25 @@
           33.89380515850252
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "New York",
+        "coordinates": "",
+        "tweet_id": "1185376252636663811",
+        "category": "International Protest",
+        "last_updated": "10/21/2019 9:27 am",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96457970142365,
+          40.77486247380616
+        ]
+      }
     }
   ]
 }
