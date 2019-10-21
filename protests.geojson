@@ -10,7 +10,7 @@
         "coordinates y": 34.3083579,
         "coordinates x": 35.773755,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
         "coordinates x": 35.503097,
         "field_7": "null",
         "tweet_id": "1185963791294586880",
-        "Last Updated": "null"
+        "last_updated": "null"
       },
       "geometry": {
         "type": "Point",
@@ -52,7 +52,7 @@
         "coordinates y": 33.89636,
         "coordinates x": 35.507147,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "coordinates y": 33.887424,
         "coordinates x": 35.521062,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -90,7 +90,7 @@
         "coordinates y": 33.8668943,
         "coordinates x": 35.9506051,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -109,7 +109,7 @@
         "coordinates y": 33.914585,
         "coordinates x": 35.584655,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -128,7 +128,7 @@
         "coordinates y": 33.873446,
         "coordinates x": 35.965307,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -148,7 +148,7 @@
         "coordinates y": 33.6702394,
         "coordinates x": 35.4234095,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +167,7 @@
         "coordinates y": 33.879347,
         "coordinates x": 35.546267,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@
         "coordinates y": 33.893839,
         "coordinates x": 35.5419023,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -206,7 +206,7 @@
         "coordinates y": 33.8647552,
         "coordinates x": 35.5081653,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +225,7 @@
         "coordinates y": 33.873731,
         "coordinates x": 35.943824,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -244,7 +244,7 @@
         "coordinates y": 33.8567956,
         "coordinates x": 35.51031,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +263,7 @@
         "coordinates y": 33.702144,
         "coordinates x": 35.921393,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -283,7 +283,7 @@
         "coordinates y": 34.396813,
         "coordinates x": 36.385253,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +306,7 @@
         "coordinates x": 35.491964,
         "field_7": "null",
         "tweet_id": "1185553455756316672",
-        "Last Updated": "null"
+        "last_updated": "null"
       },
       "geometry": {
         "type": "Point",
@@ -325,7 +325,7 @@
         "coordinates y": 33.658461,
         "coordinates x": 35.4244899,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -344,7 +344,7 @@
         "coordinates y": 33.8986265,
         "coordinates x": 35.5650619,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -363,7 +363,7 @@
         "coordinates y": 34.255325,
         "coordinates x": 35.659069,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -382,7 +382,7 @@
         "coordinates y": 33.8088421,
         "coordinates x": 35.658729,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -402,7 +402,7 @@
         "coordinates y": 33.893847,
         "coordinates x": 35.541847,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -421,7 +421,7 @@
         "coordinates y": 33.934284,
         "coordinates x": 36.150995,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -444,7 +444,7 @@
         "coordinates x": 36.208921,
         "field_7": "null",
         "tweet_id": "1185914539629563905",
-        "Last Updated": "null"
+        "last_updated": "null"
       },
       "geometry": {
         "type": "Point",
@@ -463,7 +463,7 @@
         "coordinates y": 33.8169583,
         "coordinates x": 35.8635568,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -482,7 +482,7 @@
         "coordinates y": 33.626623,
         "coordinates x": 35.783633,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -502,7 +502,7 @@
         "coordinates y": 34.442849,
         "coordinates x": 35.857195,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -522,7 +522,7 @@
         "coordinates y": 34.121477,
         "coordinates x": 35.647025,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -541,7 +541,7 @@
         "coordinates y": 33.9536446,
         "coordinates x": 35.6349579,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -564,7 +564,7 @@
         "coordinates y": 33.908989,
         "coordinates x": 35.58178,
         "field_7": "null",
-        "Last Updated": "null"
+        "last_updated": "null"
       },
       "geometry": {
         "type": "Point",
@@ -583,7 +583,7 @@
         "coordinates y": 33.986408,
         "coordinates x": 35.636782,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -602,7 +602,7 @@
         "coordinates y": 33.7390996,
         "coordinates x": 35.4551808,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +621,7 @@
         "coordinates y": 33.772877,
         "coordinates x": 35.470237,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -641,7 +641,7 @@
         "coordinates y": 33.9910829,
         "coordinates x": 36.163814,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -660,7 +660,7 @@
         "coordinates y": 33.847449,
         "coordinates x": 36.0128065,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -679,7 +679,7 @@
         "coordinates y": 34.396015,
         "coordinates x": 35.89562,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -702,7 +702,7 @@
         "coordinates y": 33.5647398,
         "coordinates x": 35.3726959,
         "field_7": "null",
-        "Last Updated": "null"
+        "last_updated": "null"
       },
       "geometry": {
         "type": "Point",
@@ -721,7 +721,7 @@
         "coordinates y": 33.876962,
         "coordinates x": 35.53505,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -740,7 +740,7 @@
         "coordinates y": 33.8673287,
         "coordinates x": 35.505867,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -759,7 +759,7 @@
         "coordinates y": 33.8155938,
         "coordinates x": 35.8534461,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -782,7 +782,7 @@
         "coordinates y": 33.2696967,
         "coordinates x": 35.2018619,
         "field_7": "null",
-        "Last Updated": "null"
+        "last_updated": "null"
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +801,7 @@
         "coordinates y": 33.8031086,
         "coordinates x": 35.6932242,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -820,7 +820,7 @@
         "coordinates y": 33.934762,
         "coordinates x": 35.589449,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -843,7 +843,7 @@
         "coordinates y": 34.437708,
         "coordinates x": 35.83686,
         "field_7": "null",
-        "Last Updated": "null"
+        "last_updated": "null"
       },
       "geometry": {
         "type": "Point",
@@ -862,7 +862,7 @@
         "coordinates y": 33.8704756,
         "coordinates x": 35.4964821,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -881,7 +881,7 @@
         "coordinates y": 33.828888,
         "coordinates x": 35.5801605,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -900,7 +900,7 @@
         "coordinates y": 33.8396486,
         "coordinates x": 35.4967809,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -919,7 +919,7 @@
         "coordinates y": 33.8292956,
         "coordinates x": 35.5923071,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -938,7 +938,7 @@
         "coordinates y": 33.8728316,
         "coordinates x": 35.5413081,
         "field_7": "this is a duplicate of Ring Road- let's delete",
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -957,7 +957,7 @@
         "coordinates y": 33.8732935,
         "coordinates x": 35.5162212,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -976,7 +976,7 @@
         "coordinates y": 33.9831061,
         "coordinates x": 35.6093021,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -995,7 +995,7 @@
         "coordinates y": 33.9266932,
         "coordinates x": 35.624623,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1014,7 +1014,7 @@
         "coordinates y": 33.9668,
         "coordinates x": 35.607002,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1033,7 +1033,7 @@
         "coordinates y": 33.671047,
         "coordinates x": 35.598767,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1052,7 +1052,7 @@
         "coordinates y": 33.40926,
         "coordinates x": 35.269702,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1071,7 @@
         "coordinates y": 33.764065,
         "coordinates x": 35.503074,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1090,7 +1090,7 @@
         "coordinates y": 33.792337,
         "coordinates x": 35.973646,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1109,7 +1109,7 @@
         "coordinates y": 33.721084,
         "coordinates x": 35.853503,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1128,7 +1128,7 @@
         "coordinates y": 33.414371,
         "coordinates x": 35.289839,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1147,7 +1147,7 @@
         "coordinates y": 34.5106879,
         "coordinates x": 35.9692627,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1166,7 +1166,7 @@
         "coordinates y": 34.5274371,
         "coordinates x": 36.0293147,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1185,7 +1185,7 @@
         "coordinates y": 34.4749166,
         "coordinates x": 36.0261956,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1204,7 +1204,7 @@
         "coordinates y": 34.244184,
         "coordinates x": 36.4032888,
         "field_7": null,
-        "Last Updated": null
+        "last_updated": null
       },
       "geometry": {
         "type": "Point",
@@ -1222,13 +1222,13 @@
         "marker-symbol": "",
         "tweet_id": "1185894742036537345",
         "protest location": "باريس",
-        "Category": "International Protest",
-        "Last Updated": "",
         "field_7": "",
         "coordinates x": "",
         "coordinates y": "",
         "links": "",
-        "coordinates": ""
+        "coordinates": "",
+        "last_updated": "",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1246,7 +1246,7 @@
         "marker-symbol": "",
         "tweet_id": "1185335160478359557",
         "protest location": "مونتريال",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1264,13 +1264,13 @@
         "marker-symbol": "",
         "protest location": "Accra",
         "tweet_id": "1185962126982176769",
-        "Category": "International Protest",
-        "Last Updated": "",
         "field_7": "",
         "coordinates x": "",
         "coordinates y": "",
         "links": "",
-        "coordinates": ""
+        "coordinates": "",
+        "last_updated": "",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1288,7 +1288,7 @@
         "marker-symbol": "",
         "protest location": "Milano",
         "tweet_id": "1185965759681519618",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1306,7 +1306,7 @@
         "marker-symbol": "",
         "protest location": "Chicago",
         "tweet_id": "1186017793822646272",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1324,7 +1324,7 @@
         "marker-symbol": "",
         "protest location": "Dublin",
         "tweet_id": "1185944027499290624",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1342,7 +1342,7 @@
         "marker-symbol": "",
         "protest location": "زحلة",
         "tweet_id": "1186029656341975043",
-        "Category": ""
+        "category": ""
       },
       "geometry": {
         "type": "Point",
@@ -1360,7 +1360,7 @@
         "marker-symbol": "",
         "protest location": "Dearborn",
         "tweet_id": "1185975287596683266",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1378,7 +1378,7 @@
         "marker-symbol": "",
         "protest location": "Boston",
         "tweet_id": "1186035661406642182",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1396,7 +1396,7 @@
         "marker-symbol": "",
         "protest location": "Tempa",
         "tweet_id": "1186035444045275137",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1414,7 +1414,7 @@
         "marker-symbol": "",
         "protest location": "زوق مكايل",
         "tweet_id": "1185846991458308097",
-        "Category": ""
+        "category": ""
       },
       "geometry": {
         "type": "Point",
@@ -1432,7 +1432,7 @@
         "marker-symbol": "",
         "protest location": "Sydney",
         "tweet_id": "1185835059363766278",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1450,7 +1450,7 @@
         "marker-symbol": "",
         "protest location": "Vancouver",
         "tweet_id": "1185711497185378304",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1473,8 +1473,8 @@
         "coordinates y": "",
         "coordinates x": "",
         "field_7": "",
-        "Last Updated": "",
-        "Category": "International Protest"
+        "last_updated": "",
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1526,7 +1526,7 @@
         "marker-symbol": "",
         "protest location": "Washington",
         "tweet_id": "1185726610617618432",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1544,7 +1544,7 @@
         "marker-symbol": "",
         "protest location": "Lyon",
         "tweet_id": "1185940810791084035",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1562,7 +1562,7 @@
         "marker-symbol": "",
         "protest location": "Amsterdam",
         "tweet_id": "1185896597663735808",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1580,7 +1580,7 @@
         "marker-symbol": "",
         "protest location": "Berlin",
         "tweet_id": "1186003406659506176",
-        "Category": "International Protest"
+        "category": "International Protest"
       },
       "geometry": {
         "type": "Point",
@@ -1601,9 +1601,9 @@
         "links": "From George Rattel Live",
         "coordinates y": 33.893226285214475,
         "coordinates x": 35.50132155418396,
-        "Last Updated": "10/21/2019 9:27 am",
-        "Category": "Road Closure",
-        "tweet_id": ""
+        "tweet_id": "",
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
       },
       "geometry": {
         "type": "Point",
@@ -1624,8 +1624,8 @@
         "links": "From George Rattel Live",
         "coordinates y": 33.962167,
         "coordinates x": 35.604744,
-        "Last Updated": "10/21/2019 9:27 am",
-        "Category": "Road Closure"
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
       },
       "geometry": {
         "type": "Point",
@@ -1643,10 +1643,10 @@
         "links": "From George Rattel Live",
         "coordinates y": 33.892834,
         "coordinates x": 35.575341,
-        "Last Updated": "10/21/2019 9:27 am",
         "marker-size": "medium",
         "marker-color": "#7e7e7e",
-        "Category": "Road Closure"
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
       },
       "geometry": {
         "type": "Point",
@@ -1664,10 +1664,10 @@
         "links": "From George Rattel Live",
         "coordinates y": 33.893913,
         "coordinates x": 35.570774,
-        "Last Updated": "10/21/2019 9:27 am",
         "marker-size": "medium",
         "marker-color": "#7e7e7e",
-        "Category": "Road Closure"
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
       },
       "geometry": {
         "type": "Point",
@@ -1685,10 +1685,10 @@
         "links": "From George Rattel Live",
         "coordinates y": 33.892661,
         "coordinates x": 35.574258,
-        "Last Updated": "10/21/2019 9:27 am",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "Category": "Road Closure"
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
       },
       "geometry": {
         "type": "Point",
@@ -1706,10 +1706,10 @@
         "links": "From George Rattel Live",
         "coordinates y": 33.896859,
         "coordinates x": 35.566092,
-        "Last Updated": "10/21/2019 9:27 am",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "Category": "Road Closure"
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
       },
       "geometry": {
         "type": "Point",
@@ -1725,14 +1725,14 @@
         "protest location": "Bridge from Hamra",
         "coordinates": "33.892275, 35.505558",
         "links": "From George Rattel Live",
-        "Category": "Road Closure",
         "tweet_id": "",
         "marker-symbol": "",
         "marker-size": "medium",
         "marker-color": "#7e7e7e",
-        "Last Updated": "10/21/2019 9:27 am",
         "coordinates y": 33.892275,
-        "coordinates x": 35.505558
+        "coordinates x": 35.505558,
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
       },
       "geometry": {
         "type": "Point",
@@ -1750,10 +1750,10 @@
         "links": "From George Rattel Live",
         "coordinates y": 33.895101,
         "coordinates x": 35.509335,
-        "Last Updated": "10/21/2019 9:27 am",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "Category": "Road Closure"
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
       },
       "geometry": {
         "type": "Point",
@@ -1771,10 +1771,10 @@
         "links": "From George Rattel Live",
         "coordinates y": 33.893786,
         "coordinates x": 35.551045,
-        "Last Updated": "10/21/2019 9:27 am",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "Category": "Road Closure"
+        "last_updated": "10/21/2019 9:27 am",
+        "category": "Road Closure"
       },
       "geometry": {
         "type": "Point",
