@@ -23,14 +23,17 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "protest location": "رياض الصلح",
         "coordinates": "33.896589, 35.503097",
-        
         "links": "https://www.facebook.com/megaphone.news/",
-        "field_4": null,
+        "field_4": "null",
         "coordinates y": 33.896589,
         "coordinates x": 35.503097,
-        "field_7": null
+        "field_7": "null",
+        "tweet_id": "1185963791294586880"
       },
       "geometry": {
         "type": "Point",
@@ -40,15 +43,14 @@
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "protest location": "ساحة الشهداء",
         "coordinates": "33.896360, 35.507147",
-        
         "links": "https://www.facebook.com/megaphone.news/",
         "field_4": null,
-        "coordinates y": 33.896360,
+        "coordinates y": 33.89636,
         "coordinates x": 35.507147,
         "field_7": null
       },
@@ -56,16 +58,15 @@
         "type": "Point",
         "coordinates": [
           35.507147,
-          33.896360
+          33.89636
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "protest location": "ساحة ساسين",
         "coordinates": "33.887424, 35.521062",
-        
         "links": "https://www.facebook.com/megaphone.news/",
         "field_4": null,
         "coordinates y": 33.887424,
@@ -79,8 +80,7 @@
           33.887424
         ]
       }
-    }
-    ,
+    },
     {
       "type": "Feature",
       "properties": {
@@ -143,7 +143,8 @@
       "properties": {
         "protest location": "الجية",
         "coordinates": "33.6702394,35.4234095",
-        "links": "https://twitter.com/lbci_news/status/1184963304621531137?s=21",
+        "links": "https://twitter.com/lbci_news/status/1184963304621531137",
+        "tweet_id": "1184963304621531137",
         "field_4": null,
         "coordinates y": 33.6702394,
         "coordinates x": 35.4234095,
@@ -201,6 +202,7 @@
         "protest location": "الشياح",
         "coordinates": "33.8647552,35.5081653",
         "links": "https://twitter.com/Sobhiyanajjar/status/1184913759720148992",
+        "tweet_id": "1184913759720148992",
         "field_4": null,
         "coordinates y": 33.8647552,
         "coordinates x": 35.5081653,
@@ -276,7 +278,8 @@
       "properties": {
         "protest location": "الهرمل",
         "coordinates": null,
-        "links": "https://twitter.com/BelalAyoubi/status/1184993817239404544?s=20",
+        "links": "https://twitter.com/BelalAyoubi/status/1184993817239404544",
+        "tweet_id": "1184993817239404544",
         "field_4": null,
         "coordinates y": 34.396813,
         "coordinates x": 36.385253,
@@ -293,13 +296,17 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "protest location": "النبطية",
         "coordinates": "33.364253,35.491964",
         "links": "https://www.lbcgroup.tv/news/d/%D8%A7%D9%85%D9%86-%D9%88%D9%82%D8%B6%D8%A7%D8%A1/476701/%D8%AA%D9%83%D8%B3%D9%8A%D8%B1-%D9%8A%D8%A7%D9%81%D8%B7%D8%A9-%D9%88%D8%A7%D8%B6%D8%B1%D8%A7%D9%85-%D9%86%D8%A7%D8%B1-%D8%A7%D9%85%D8%A7%D9%85-%D9%85%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8-%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D8%B9%D8%AF-%D9%81/ar",
-        "field_4": null,
+        "field_4": "null",
         "coordinates y": 33.364253,
         "coordinates x": 35.491964,
-        "field_7": null
+        "field_7": "null",
+        "tweet_id": "1185553455756316672"
       },
       "geometry": {
         "type": "Point",
@@ -390,7 +397,8 @@
       "properties": {
         "protest location": "الصالومي",
         "coordinates": "33.893847,35.541847",
-        "links": "https://twitter.com/BelalAyoubi/status/1184995156304506881?s=20",
+        "links": "https://twitter.com/BelalAyoubi/status/1184995156304506881",
+        "tweet_id": "1184995156304506881",
         "field_4": null,
         "coordinates y": 33.893847,
         "coordinates x": 35.541847,
@@ -426,13 +434,17 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "protest location": "بعلبك",
         "coordinates": "34.005608,36.208921",
         "links": "https://www.facebook.com/Lebanon.ne/videos/514849269298183/",
-        "field_4": null,
+        "field_4": "null",
         "coordinates y": 34.005608,
         "coordinates x": 36.208921,
-        "field_7": null
+        "field_7": "null",
+        "tweet_id": "1185914539629563905"
       },
       "geometry": {
         "type": "Point",
@@ -485,7 +497,8 @@
       "properties": {
         "protest location": "جبل محسن",
         "coordinates": "34.442849,35.857195",
-        "links": "https://twitter.com/BelalAyoubi/status/1185107095923974144?s=20",
+        "links": "https://twitter.com/BelalAyoubi/status/1185107095923974144",
+        "tweet_id": "1185107095923974144",
         "field_4": null,
         "coordinates y": 34.442849,
         "coordinates x": 35.857195,
@@ -504,7 +517,8 @@
       "properties": {
         "protest location": "جبيل",
         "coordinates": "34.121477,35.647025",
-        "links": "https://twitter.com/nellyghossein1/status/1184950335225417729?s=20",
+        "links": "https://twitter.com/nellyghossein1/status/1184950335225417729",
+        "tweet_id": "1184950335225417729",
         "field_4": null,
         "coordinates y": 34.121477,
         "coordinates x": 35.647025,
@@ -540,13 +554,17 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "protest location": "جل الديب",
         "coordinates": "35.581780,33.908989",
-        "links": "https://twitter.com/BelalAyoubi/status/1184996941647765504?s=20",
-        "field_4": null,
+        "links": "https://twitter.com/BelalAyoubi/status/1184996941647765504",
+        "tweet_id": "1185660808866549760",
+        "field_4": "null",
         "coordinates y": 33.908989,
         "coordinates x": 35.58178,
-        "field_7": null
+        "field_7": "null"
       },
       "geometry": {
         "type": "Point",
@@ -618,7 +636,8 @@
       "properties": {
         "protest location": "دوريس",
         "coordinates": "33.9910829,36.163814",
-        "links": "https://twitter.com/BelalAyoubi/status/1184992502371237889?s=20",
+        "links": "https://twitter.com/BelalAyoubi/status/1184992502371237889",
+        "tweet_id": "1184992502371237889",
         "field_4": null,
         "coordinates y": 33.9910829,
         "coordinates x": 36.163814,
@@ -673,13 +692,17 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "protest location": "ساحة إيليا صيدا",
         "coordinates": "33.5647398,35.3726959",
         "links": "https://twitter.com/aemasri/status/1184947765345968130",
-        "field_4": null,
+        "tweet_id": "1185997551348129793",
+        "field_4": "null",
         "coordinates y": 33.5647398,
         "coordinates x": 35.3726959,
-        "field_7": null
+        "field_7": "null"
       },
       "geometry": {
         "type": "Point",
@@ -749,13 +772,17 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "protest location": "صور",
         "coordinates": "33.2696967,35.2018619",
         "links": "https://twitter.com/AmalKhalil83/status/1184939523802882049",
-        "field_4": null,
+        "tweet_id": "1185965255849140227",
+        "field_4": "null",
         "coordinates y": 33.2696967,
         "coordinates x": 35.2018619,
-        "field_7": null
+        "field_7": "null"
       },
       "geometry": {
         "type": "Point",
@@ -806,13 +833,17 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "protest location": "طرابلس ساحة النور",
         "coordinates": "34.437708,35.83686",
-        "links": "https://twitter.com/BelalAyoubi/status/1184992033410310144?s=20",
-        "field_4": null,
+        "links": "https://twitter.com/BelalAyoubi/status/1184992033410310144",
+        "tweet_id": "1186035064657862656",
+        "field_4": "null",
         "coordinates y": 34.437708,
         "coordinates x": 35.83686,
-        "field_7": null
+        "field_7": "null"
       },
       "geometry": {
         "type": "Point",
@@ -1180,6 +1211,346 @@
         "coordinates": [
           36.4032888,
           34.244184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "tweet_id": "1185894742036537345",
+        "protest location": "باريس"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2968292236328125,
+          48.85697876155512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "tweet_id": "1185335160478359557",
+        "protest location": "مونتريال"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.63311767578125,
+          45.519819502877084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Accra",
+        "tweet_id": "1185962126982176769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20479202270507812,
+          5.5537976900682064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Milano",
+        "tweet_id": "1185965759681519618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.184570312499998,
+          45.469521384817995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Chicago",
+        "tweet_id": "1186017793822646272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63999938964844,
+          41.887965758804484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Dublin",
+        "tweet_id": "1185944027499290624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.258087158203125,
+          53.352395696794645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "زحلة",
+        "tweet_id": "1186029656341975043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.901689529418945,
+          33.84675221435487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Dearborn",
+        "tweet_id": "1185975287596683266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1778335571289,
+          42.32377795959519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Boston",
+        "tweet_id": "1186035661406642182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06231689453125,
+          42.35879761294287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Tempa",
+        "tweet_id": "1186035444045275137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46612548828125,
+          27.958017064071754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "زوق مكايل",
+        "tweet_id": "1185846991458308097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6202507019043,
+          33.97212161348937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Sydney",
+        "tweet_id": "1185835059363766278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21170043945312,
+          -33.87326611273154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Vancouver",
+        "tweet_id": "1185711497185378304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          236.93389892578128,
+          49.26332381833573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "London",
+        "tweet_id": "1185634693175226372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1627349853515625,
+          51.51429786349477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "غزير",
+        "tweet_id": "1185561017314623488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.661020278930664,
+          34.01577945723606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "أميون",
+        "tweet_id": "1186010869530025987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.80821990966797,
+          34.29927374801349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Washington",
+        "tweet_id": "1185726610617618432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03338623046875,
+          38.89744587262311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Lyon",
+        "tweet_id": "1185940810791084035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8504638671875,
+          45.74788115135079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Amsterdam",
+        "tweet_id": "1185896597663735808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.888916015625,
+          52.3709879000206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Berlin",
+        "tweet_id": "1186003406659506176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.380424976348875,
+          52.5164428456833
         ]
       }
     }
