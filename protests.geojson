@@ -1600,7 +1600,7 @@
         "coordinates": "33.893226285214475,35.50132155418396",
         "links": "From George Rattel Live",
         "coordinates y": 33.893226285214475,
-        "coordinates x": "  35.50132155418396",
+        "coordinates x": 35.50132155418396,
         "Last Updated": "10/21/2019 9:27 am",
         "Category": "Road Closure",
         "tweet_id": ""
@@ -1610,6 +1610,112 @@
         "coordinates": [
           35.50132155418396,
           33.893226285214475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Zouq Mosbeh",
+        "coordinates": "33.962167, 35.604744",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.962167,
+        "coordinates x": 35.604744,
+        "Last Updated": "10/21/2019 9:27 am",
+        "Category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.60465097427368,
+          33.96196003137657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Matn Express Hwy",
+        "coordinates": "33.892834, 35.575341",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.892834,
+        "coordinates x": 35.575341,
+        "Last Updated": "10/21/2019 9:27 am",
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e",
+        "Category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57522177696228,
+          33.892861147735054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Matn Express Hwy",
+        "coordinates": "33.893913, 35.570774",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.893913,
+        "coordinates x": 35.570774,
+        "Last Updated": "10/21/2019 9:27 am",
+        "marker-size": "medium",
+        "marker-color": "#7e7e7e",
+        "Category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5710482597351,
+          33.89484712051975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "Mar Mtanios",
+        "coordinates": "33.892661, 35.574258",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.892661,
+        "coordinates x": 35.574258,
+        "Last Updated": "10/21/2019 9:27 am",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57501792907715,
+          33.892255550420344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": "City Mall",
+        "coordinates": "33.896859, 35.566092",
+        "links": "From George Rattel Live",
+        "coordinates y": 33.896859,
+        "coordinates x": 35.566092,
+        "Last Updated": "10/21/2019 9:27 am",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "Category": "Road Closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.56604862213135,
+          33.89677961466216
         ]
       }
     }
