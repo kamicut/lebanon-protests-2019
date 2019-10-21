@@ -1825,6 +1825,193 @@
           43.710100
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Bogota",
+        "tweet_id": "1186030967003193345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.104089,
+          4.632486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Cyprus",
+        "tweet_id": "1185952306501693447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.258014,
+          34.971196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Brussels",
+        "tweet_id": "1185826468858912770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.350755,
+          50.847925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Kharkiv",
+        "tweet_id": "1185977292910223360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.267917,
+          49.973695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Mexico City",
+        "tweet_id": "1185975297482641410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.220496,
+          19.502104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Minsk",
+        "tweet_id": "1185969377583218688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.556310,
+          53.894227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Munich",
+        "tweet_id": "1185904510125924358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.566509,
+          48.140048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "The Hague",
+        "tweet_id": "1185975701603782656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.298530,
+          52.065499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Stockholm",
+        "tweet_id": "1185898354871619584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.068892,
+          59.329182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "San Francisco",
+        "tweet_id": "1185829626834079745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429696,
+          37.764982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Strasbourg",
+        "links": "https://www.facebook.com/lebanon10452.lb/photos/a.2317032335234305/2444015959202608/?type=3&theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.753168,
+          48.569758
+        ]
+      }
     }
   ]
 
