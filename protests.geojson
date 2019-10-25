@@ -4,26 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "protest location": " كفر حزير ",
-        "coordinates": "34.3083579,35.773755",
-	      "tweet_id": "1187377647757774849",
-        "links": null,
-        "field_4": null,
-        "coordinates y": 34.3083579,
-        "coordinates x": 35.773755,
-        "field_7": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.773755,
-          34.3083579
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -41,6 +21,49 @@
         "coordinates": [
           35.503097,
           33.896589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "طرابلس ساحة النور",
+        "coordinates": "34.437708,35.83686",
+        "links": "https://twitter.com/BelalAyoubi/status/1184992033410310144",
+        "tweet_id": "1186726097481883649",
+        "field_4": "null",
+        "coordinates y": 34.437708,
+        "coordinates x": 35.83686,
+        "field_7": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.83686,
+          34.437708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "protest location": " كفر حزير ",
+        "coordinates": "34.3083579,35.773755",
+	      "tweet_id": "1187377647757774849",
+        "links": null,
+        "field_4": null,
+        "coordinates y": 34.3083579,
+        "coordinates x": 35.773755,
+        "field_7": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.773755,
+          34.3083579
         ]
       }
     },
@@ -810,29 +833,6 @@
         "coordinates": [
           35.589449,
           33.934762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "protest location": "طرابلس ساحة النور",
-        "coordinates": "34.437708,35.83686",
-        "links": "https://twitter.com/BelalAyoubi/status/1184992033410310144",
-        "tweet_id": "1186726097481883649",
-        "field_4": "null",
-        "coordinates y": 34.437708,
-        "coordinates x": 35.83686,
-        "field_7": "null"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.83686,
-          34.437708
         ]
       }
     },
