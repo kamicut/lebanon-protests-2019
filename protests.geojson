@@ -2049,7 +2049,7 @@
         ]
       }
     },
-      {
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
@@ -2063,6 +2063,23 @@
         "coordinates": [
           115.096133,
           -8.354698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "protest location": "Manchester",
+        "tweet_id": "1185910127100153856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.246101,
+          53.481097
         ]
       }
     }
